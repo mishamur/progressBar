@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mveu23072022inherit", "mveu23072022inherit\mveu23072022inherit.csproj", "{DD75C848-4AA0-49B2-BA54-3CB2D7CC1326}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgressBar", "ProgressBar\ProgressBar.csproj", "{B5DA76DA-AF16-40A4-B85B-3C4ED97818E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD75C848-4AA0-49B2-BA54-3CB2D7CC1326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD75C848-4AA0-49B2-BA54-3CB2D7CC1326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD75C848-4AA0-49B2-BA54-3CB2D7CC1326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD75C848-4AA0-49B2-BA54-3CB2D7CC1326}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5DA76DA-AF16-40A4-B85B-3C4ED97818E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5DA76DA-AF16-40A4-B85B-3C4ED97818E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5DA76DA-AF16-40A4-B85B-3C4ED97818E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5DA76DA-AF16-40A4-B85B-3C4ED97818E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD1F5FEA-A807-4434-9F6C-C934C9B760F6}
+	EndGlobalSection
+EndGlobal
